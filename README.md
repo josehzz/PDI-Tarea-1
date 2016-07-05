@@ -5,4 +5,5 @@
 - Luego colocar el nombre de la imagen (esta debe estar en la misma carpeta que loadBMP.py)
 - Seguir las instrucciones del programa en adelante.
 
-![alt tag](https://www.dropbox.com/s/dgaxvk3qlewmg30/Captura12.PNG?dl=0)
+Ejemplo:
+https://www.dropbox.com/s/dgaxvk3qlewmg30/Captura12.PNG
